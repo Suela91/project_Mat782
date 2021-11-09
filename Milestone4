@@ -1,0 +1,11 @@
+#Here I calculated the mean, median, variance and standard deviation of the mon column
+mean(sports$mon)
+median(sports$mon)
+var(sports$mon)
+sd(sports$mon)
+
+#And, I also calculated mean, median, variance and standard deviation of the tot_attend column
+mean(sports$tot_attend)
+median(sports$tot_attend)
+var(sports$tot_attend)
+sd(sports$tot_attend)
